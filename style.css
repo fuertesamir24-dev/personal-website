@@ -1,7 +1,13 @@
 body {
-    background-image: url("imagenes/images.jpg");
+    background-image: url("images/images.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     margin: 0;
+    min-height: 100vh;
+    color:beige;
+    text-align: center;
+}
+img {
+    width: 200px;
 }
